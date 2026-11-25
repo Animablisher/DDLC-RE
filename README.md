@@ -18,7 +18,7 @@ The first version of my localization (**v1.0.0**) launched on **24 July 2026**. 
 - **Full Arabic translation**: The whole game is fully localized to Arabic, dialogues and menus alike, with the ability to switch into English at any time from the game settings.
 - **Full Android support**: The code has been modified to support Android, and it plays exactly like the PC version, and supports **all** Android versions (including Android 14+).
 - **Basic Android modding support**: It's still very basic, but it lets you put custom `.rpy` files in the `mods` folder to override the game's script and change or add features. You can add images and audio there as well. Basically, you can manipulate the game on Android however you like if you know how to write Ren'Py code. Everything you need to know is available on the [Ren'Py Documentation](https://www.renpy.org/doc/html/index.html)
-- **Ease of patching**: Reformatted the poems and some lines to make patching and localization much easier. I even made a translation template if you want, [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-Translation-Template.zip)
+- **Ease of patching**: Reformatted the poems and some lines to make patching and localization much easier. I even made a translation template if you want, [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.Translation.Template.zip)
 - **Subtitles for the end credits.**
 
 ---
@@ -42,7 +42,7 @@ There are three ways to download as of now, choose the one that you like:
 ## How to Install on Windows
 
 1. Download the game from [Dan Salvato's itch.io store page](https://teamsalvato.itch.io/ddlc).
-2. Download the **`DDLC-RE v1.0.7.zip`** file from the [Releases](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-v1.0.7.zip).
+2. Download the **`DDLC-RE v1.0.7.zip`** file from the [Releases](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.v1.0.7.zip).
 3. Extract the game.
 4. Extract the file and copy its content (`DDLCRE.exe`, `game`, `lib`, ...) into the game's main directory.
 
@@ -56,12 +56,12 @@ And that's it!
 
 What's your Android version?
 
-- **Android 14 or above:** download **`DDLC-RE r7 v1.0.7.apk`** from [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-r7-v1.0.7.apk).
-- **Below Android 14:** download **`DDLC-RE r6 v1.0.7.apk`** from [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-r6-v1.0.7.apk).
+- **Android 14 or above:** download **`DDLC-RE r7 v1.0.7.apk`** from [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.r7.v1.0.7.apk).
+- **Below Android 14:** download **`DDLC-RE r6 v1.0.7.apk`** from [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.r6.v1.0.7.apk).
 
 ### 2. Game crash issue
 
-On some devices, the game might crash immediately after choosing a language. You can fix that by downloading [this file](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/r7-crash-fix.zip), extracting **`options.rpy`** from it, and putting it into the `renpy/ddlc/mods` directory.
+On some devices, the game might crash immediately after choosing a language. You can fix that by downloading [this file](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/r7.crash.fix.zip), extracting **`options.rpy`** from it, and putting it into the `renpy/ddlc/mods` directory.
 
 ---
 
@@ -76,7 +76,7 @@ The files in this repo can easily be patched into the game, allowing you to expo
 - The original game
 - [**rpaExtract**](https://iwanplays.itch.io/rpaex)
 - [**unrpyc**](https://github.com/CensoredUsername/unrpyc)
-- The patch files [**here**](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-v1.0.7-Decompiled.zip)
+- The patch files [**here**](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.v1.0.7.Decompiled.zip)
 - [Ren'Py **6.99.14.3**](https://www.renpy.org/release/6.99.14.3) — **do NOT use Ren'Py 7 or 8 unless you know what you're doing!!**
 
 ### Steps
@@ -97,3 +97,4 @@ And that's it! Very easy! Once you open Ren'Py, you can launch the project and i
 The DDLC:RE project is planned to be maintained every now and then (or once every blood moon). So, if you coded any feature you think I should add, open a **Pull Request**, or you can DM me on [Facebook](https://www.facebook.com/AmineOussousWeeb).
 
 Suggestions are welcome as well, as long as they're reasonable and not drastic changes or additions.
+
