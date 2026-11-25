@@ -42,7 +42,7 @@ There are three ways to download as of now, choose the one that you like:
 ## How to Install on Windows
 
 1. Download the game from [Dan Salvato's itch.io store page](https://teamsalvato.itch.io/ddlc).
-2. Download the **`DDLC-RE v1.0.7.zip`** file from the [Releases](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.v1.0.7.zip).
+2. Download the **`DDLC-RE v1.0.7.zip`** file from [here](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.v1.0.7.zip).
 3. Extract the game.
 4. Extract the file and copy its content (`DDLCRE.exe`, `game`, `lib`, ...) into the game's main directory.
 
