@@ -43,7 +43,8 @@ There are three ways to download as of now, choose the one that you like:
 
 1. Download the game from [Dan Salvato's itch.io store page](https://teamsalvato.itch.io/ddlc).
 2. Download the **`DDLC-RE v1.0.7.zip`** file from the [Releases](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE-v1.0.7.zip).
-3. Extract the game, and extract my file. Then copy the content inside my file (`DDLCRE.exe`, `game`, `lib`, ...) into the game's main directory.
+3. Extract the game.
+4. Extract the file and copy its content (`DDLCRE.exe`, `game`, `lib`, ...) into the game's main directory.
 
 And that's it!
 
