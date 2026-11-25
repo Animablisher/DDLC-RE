@@ -73,7 +73,7 @@ The files in this repo can easily be patched into the game, allowing you to expo
 
 ### What you need
 
-- The original game
+- [The original game](https://teamsalvato.itch.io/ddlc)
 - [**rpaExtract**](https://iwanplays.itch.io/rpaex)
 - [**unrpyc**](https://github.com/CensoredUsername/unrpyc)
 - The patch files [**here**](https://github.com/Animablisher/DDLC-RE/releases/download/v1.0.7/DDLC-RE.v1.0.7.Decompiled.zip)
