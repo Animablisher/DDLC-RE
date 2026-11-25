@@ -1,0 +1,13 @@
+# Subtitles for Monika's spoken monologue before the credits (read by credits_subtitles.rpy).
+# Without an end time, a line stays until the next one starts.
+# [mm:ss.xx-mm:ss.xx] (example of setting an end time).
+
+[00:09.56-00:10.96] Uhh, Can you hear me?
+[00:13.21-00:15.04] Hi! it's me.
+[00:15.44-00:17.24] Umm... so...
+[00:17.28-00:21.53] You know how I've been like... practicing piano and stuff?
+[00:21.85-00:26.33] And... not really any good at it yet, like... at all!
+[00:26.75-00:29.12] But... I wrote you a song...
+[00:29.20-00:32.01] And... I was kinda hoping that I could show it to you.
+[00:32.06-00:35.77] 'Cause I worked really, really hard on it.
+[00:36.20-00:37.77] So... yeah!

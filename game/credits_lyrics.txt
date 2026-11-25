@@ -1,0 +1,20 @@
+# Lyric subtitles for the credits (read by credits_subtitles.rpy).
+# Only lyrics that come after 00:50.00 appear.
+# Without an end time, a line stays until the next one starts.
+# [mm:ss.xx-mm:ss.xx] (example of setting an end time).
+
+
+[01:00.25-01:05.48] Have I found everybody a fun assignment to do today?
+[01:09.37-01:14.73] When you're here, everything that we do is fun for them anyway
+[01:18.25-01:22.73] When I can't even read my own feelings
+[01:22.83-01:26.36] What good are words when a smile says it all?
+[01:27.40-01:31.87] And if this world won't write me an ending
+[01:31.96-01:35.50] What will it take just for me to have it all?
+[01:55.69-02:00.80] Does my pen only write bitter words for those who are dear to me?
+[02:04.78-02:10.11] Is it love if I take you, or is it love if I set you free?
+[02:18.25-02:22.68] The ink flows down into a dark puddle
+[02:22.81-02:26.43] How can I write love into reality?
+[02:27.39-02:31.80] If I can't hear the sound of your heartbeat
+[02:31.96-02:35.60] What do you call love in your reality?
+[02:35.71-02:44.46] And in your reality, if I don't know how to love you...
+[02:44.54-02:46.17] I'll leave you be
